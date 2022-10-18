@@ -42,4 +42,4 @@ gcc filename.c -o filename -std=c89
 ```
 
 ## Licence and copyright
-Originally made by Ted Jensen with help of Bob Stout and other contributors, published as GNU General Public Licence v3.0, and published on [Github](https://github.com/jflaherty/ptrtut13) by Jay Flaherty. See LICENCE file for more information about use, sharing or editing repository and code written here.
+Originally made by Ted Jensen with help of Bob Stout and other contributors, published as GNU General Public Licence v3.0, and uploaded to [Github](https://github.com/jflaherty/ptrtut13) by Jay Flaherty. See LICENCE file for more information about use, sharing or editing repository and code written here.

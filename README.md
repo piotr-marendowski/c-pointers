@@ -4,7 +4,7 @@ A collection of programs from "A Tutorial on Pointers and Arrays in C" Version 1
 ## Table of contents
 * [Chapters](#chapters)
 * [Compile and run](#compile-and-run)
-* [Licence nad copyright](#licence-nad-copyright)
+* [Licence nad copyright](#licence-and-copyright)
 
 ## Chapters
 1 - What is a pointer?

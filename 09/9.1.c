@@ -1,5 +1,5 @@
 /*  Name: 9.1.c
-    Author: NiceMan1337 
+    Author: Ted Jensen
     Date: 22.10.2022  */
 
 #include <stdio.h>

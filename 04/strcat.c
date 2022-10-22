@@ -1,5 +1,5 @@
 /*  Name: strcat.c
-    Author: NiceMan1337 
+    Author: Piotr Marendowski
     Date: 19.10.2022  */
 
 #include <stdio.h>

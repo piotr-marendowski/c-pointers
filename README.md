@@ -7,23 +7,23 @@ A collection of programs from "A Tutorial on Pointers and Arrays in C" Version 1
 * [Licence and copyright](#licence-and-copyright)
 
 ## Chapters
-[1](/1) - What is a pointer?
+[1](/01) - What is a pointer?
 
-[2](/2) - Pointer types and Arrays
+[2](/02) - Pointer types and Arrays
 
-[3](/3) - Pointers and Strings
+[3](/03) - Pointers and Strings
 
-[4](/4) - More on Strings
+[4](/04) - More on Strings
 
-[5](/5) - Pointers and Structures
+[5](/05) - Pointers and Structures
 
-[6](/6) - Some more on Strings, and Arrays of Strings
+[6](/06) - Some more on Strings, and Arrays of Strings
 
-[7](/7) - More on Multi-Dimensional Arrays
+[7](/07) - More on Multi-Dimensional Arrays
 
-[8](/8) - Pointers to Arrays
+[8](/08) - Pointers to Arrays
 
-[9](/9) - Pointers and Dynamic Allocation of Memory
+[9](/09) - Pointers and Dynamic Allocation of Memory
 
 [10](/10) - Pointers to Functions
 
